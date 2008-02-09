@@ -1,0 +1,130 @@
+Deleting old build...
+Compiling...
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+ntexmod.dpr(279) Warning: Variable 'mapaddr' might not have been initialized
+285 lines, 0.09 seconds, 30248 bytes code, 3085 bytes data.
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+APEtag.pas(269) Warning: Variable 'ID3' might not have been initialized
+bitmath.pas(248) Warning: Return value of function 'MakeWord' might be undefined
+bitmath.pas(254) Warning: Return value of function 'MakeLong' might be undefined
+bitmath.pas(260) Warning: Return value of function 'MakeLongInt' might be undefined
+bitmath.pas(266) Warning: Return value of function 'MakeInt64' might be undefined
+bitmath.pas(375) Warning: Variable 'TMPB' might not have been initialized
+x_arc.pas(82) Warning: Method 'Create' hides virtual method of base type 'TComponent'
+x_arc.pas(83) Warning: Method 'Destroy' hides virtual method of base type 'TComponent'
+voiceapi.pas(48) Warning: Return value of function 'GeneralDialog' might be undefined
+voiceapi.pas(54) Warning: Return value of function 'LexiconDialog' might be undefined
+voiceapi.pas(60) Warning: Return value of function 'TranslateDialog' might be undefined
+voiceapi.pas(66) Warning: Return value of function 'AboutDialog' might be undefined
+voiceapi.pas(104) Warning: Return value of function 'getmodeinfo' might be undefined
+voiceapi.pas(123) Hint: Value assigned to 'CreateAndEnum' never used
+voiceapi.pas(111) Hint: Value assigned to 'CreateAndEnum' never used
+GUI.pas(20) Fatal: File not found: 'WPTaskbarNotifier.dcu'
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+279 lines, 0.31 seconds, 372136 bytes code, 7765 bytes data.
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+voiceapi.pas(48) Warning: Return value of function 'GeneralDialog' might be undefined
+voiceapi.pas(54) Warning: Return value of function 'LexiconDialog' might be undefined
+voiceapi.pas(60) Warning: Return value of function 'TranslateDialog' might be undefined
+voiceapi.pas(66) Warning: Return value of function 'AboutDialog' might be undefined
+voiceapi.pas(104) Warning: Return value of function 'getmodeinfo' might be undefined
+voiceapi.pas(123) Hint: Value assigned to 'CreateAndEnum' never used
+voiceapi.pas(111) Hint: Value assigned to 'CreateAndEnum' never used
+6141 lines, 0.38 seconds, 404400 bytes code, 8297 bytes data.
+Deleting new dcu....
+Packing...
+                     Ultimate Packer for eXecutables
+   Copyright (C) 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004
+UPX 1.25w        Markus F.X.J. Oberhumer & Laszlo Molnar        Jun 29th 2004
+
+        File size         Ratio      Format      Name
+   --------------------   ------   -----------   -----------
+     43008 ->     22528   52.38%    win32/pe     ntexmod.dll
+
+Packed 1 file.
++-------------------------------------------------------------+
+|Upack 0.39 >>>>>>>> Ultimate PE Packer <<<<<<<< Final Version|
+|Copyright (c) 2005 by Dwing  All rights reserved  18 Dec 2005|
+|!FREEware for non-commercial use with ABSOLUTELY NO WARRANTY!|
+|** Homepage: http://dwing.51.net Contact me: dwing@163.com **|
+|*** !WARNING: Remember backup before packing any PE file! ***|
++-------------------------------------------------------------+
+Reading mp3.exe ...... 
+Error:[0005] File is readonly
++-------------------------------------------------------------+
+|Upack 0.39 >>>>>>>> Ultimate PE Packer <<<<<<<< Final Version|
+|Copyright (c) 2005 by Dwing  All rights reserved  18 Dec 2005|
+|!FREEware for non-commercial use with ABSOLUTELY NO WARRANTY!|
+|** Homepage: http://dwing.51.net Contact me: dwing@163.com **|
+|*** !WARNING: Remember backup before packing any PE file! ***|
++-------------------------------------------------------------+
+Reading ed.exe ...... 440320 bytes OK!
+Recompiling and compressing:[00400000-00472000]
+	Rebuilding import table [2290]...... OK!
+	Removing relocation table [6738]...... OK!
+	Recompiling resource [006400]...... OK!
+	Moving TLS table [0018]...... OK!
+	Transforming code ......[70-16-2D5C] OK!
+	Compressing data (Use 512 KB dict) ......  0%  3%  7% 10% 14% 17% 21% 24% 28% 31% 35% 38% 42% 45% 49% 52% 56% 59% 63% 66% 70% 73% 77% 80% 84% 87% 91% 94% 98% OK!
+	Building new PE data ...... OK!
+Linking new PE file ...... 162572 bytes OK!
+Completed!
++-------------------------------------------------------------+
+|Upack 0.39 >>>>>>>> Ultimate PE Packer <<<<<<<< Final Version|
+|Copyright (c) 2005 by Dwing  All rights reserved  18 Dec 2005|
+|!FREEware for non-commercial use with ABSOLUTELY NO WARRANTY!|
+|** Homepage: http://dwing.51.net Contact me: dwing@163.com **|
+|*** !WARNING: Remember backup before packing any PE file! ***|
++-------------------------------------------------------------+
+Reading speech2.exe ...... 478720 bytes OK!
+Recompiling and compressing:[00400000-0047B000]
+	Rebuilding import table [229A]...... OK!
+	Removing relocation table [75A0]...... OK!
+	Recompiling resource [006C00]...... OK!
+	Moving TLS table [0018]...... OK!
+	Transforming code ......[6C-14-311C] OK!
+	Compressing data (Use 512 KB dict) ......  0%  3%  6%  9% 13% 16% 19% 22% 26% 29% 32% 35% 39% 42% 45% 48% 52% 55% 58% 62% 65% 68% 71% 75% 78% 81% 84% 87% 91% 94% 97% OK!
+	Building new PE data ...... OK!
+Linking new PE file ...... 170908 bytes OK!
+Completed!
+Creating archive...
+Скопировано файлов:         1.
++-------------------------------------------------------------+
+|Upack 0.39 >>>>>>>> Ultimate PE Packer <<<<<<<< Final Version|
+|Copyright (c) 2005 by Dwing  All rights reserved  18 Dec 2005|
+|!FREEware for non-commercial use with ABSOLUTELY NO WARRANTY!|
+|** Homepage: http://dwing.51.net Contact me: dwing@163.com **|
+|*** !WARNING: Remember backup before packing any PE file! ***|
++-------------------------------------------------------------+
+Reading tmp.sfx ...... 114688 bytes OK!
+Recompiling and compressing:[00400000-00424000]
+	Rebuilding import table [0F9F]...... OK!
+	Recompiling resource [007940]...... OK!
+	Transforming code ......[CC-0D-086D] OK!
+	Compressing data (Use 256 KB dict) ......  0% 11% 22% 33% 45% 56% 68% 80% 92% OK!
+	Building new PE data ...... OK!
+Linking new PE file ...... 54224 bytes OK!
+Completed!
+
+RAR 3.51    Авторские права (c) 1993-2005 Александр Рошал    7 Oct 2005
+Зарегистрировано на имя: Kris Jacobs
+
+Создание непрерывного архива xampinst.exe
+
+Чтение комментария из cmt.txt
+Добавление комментария в xampinst.exe
+Добавление ed.exe                                                           5% 11% 17% 23% 29%  OK 
+Добавление speech2.exe                                                     35% 41% 46% 52% 58% 60%  OK 
+Добавление bass.dll                                                        65% 71% 76%  OK 
+Добавление bass_fx.dll                                                     81%  OK 
+Добавление basscd.dll                                                      83%  OK 
+Добавление bassflac.dll                                                    87%  OK 
+Добавление basswma.dll                                                     93% 95%  OK 
+Добавление ntexmod.dll                                                     99%  OK 
+Добавление voice.cfg                                                       99%  OK 
+Добавление hotcd.url                                                      100%  OK 
+Готово

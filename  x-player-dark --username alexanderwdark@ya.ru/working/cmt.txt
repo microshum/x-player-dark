@@ -1,0 +1,32 @@
+;Расположенный ниже комментарий содержит команды SFX-сценария
+Path=XPLAYER
+Setup="mp3.exe"
+Overwrite=1
+Title=Установка X-PLAYER by A.Dark
+Text
+{
+<html>
+<head>
+  <title></title>
+</head>
+<body bgcolor="black" text="white" alink="lightblue" link="lightblue" vlink="lightblue">
+<center><b><font size="4"><font color="#80FF00">X-Player by Dark</font></font></b></center>
+
+<center><font color="yellow"><b>Посвящается любимой М.В.Ш.</b></font></center><br>
+
+
+Вы используете это программное обеспечение на свой страх и риск,
+тем самым подразумевая согласие с отказом от каких либо гарантий
+по работоспособности и надежности данного бесплатного ПО.
+<br>
+(c) 2003-2006 <a href="http://www.darksoftware.narod.ru" target="_blank">Dark Software</a>
+
+</body>
+</html>
+}
+Shortcut=P, "mp3.exe", "X-Player by Dark", "Проигрыватель X-Player", "Проигрыватель X-Player"
+Shortcut=P, "speech2.exe", "X-Player by Dark", "Настройка голоса", "Настройка голоса"
+Shortcut=P, "ed.exe", "X-Player by Dark", "Редактор фраз", "Редактор фраз"
+Shortcut=P, "options.ini", "X-Player by Dark", "Настройки", "Настройки"
+Shortcut=P, "darksoftware.url ", "X-Player by Dark", "Сайт Dark Software", "Сайт Dark Software"
+Shortcut=P, "hotcd.url ", "X-Player by Dark", "Диски почтой", "Диски почтой"
